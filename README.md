@@ -59,3 +59,7 @@ I'm a Technical Consultant in Quality Engineering at Perficient, where I own QA 
 <p align="center">
   <sub>Open to conversations on test automation, AI-assisted QA, and quality engineering.</sub>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nidhi-shingade/"><img src="https://img.shields.io/badge/LinkedIn-nidhi--shingade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
