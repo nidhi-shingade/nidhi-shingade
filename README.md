@@ -36,7 +36,7 @@ I'm a Technical Consultant in Quality Engineering at Perficient, where I own QA 
 ### Recent work
 
 - Built a layered Playwright and Rest Assured framework with CI-ready execution on Kubernetes-deployed APIs, covering AuthN/AuthZ, PII, and secure-header checks.
-- Converted test automation into Claude skills that run smoke and regression suites and generate reports from a single command, driving 85–90%+ automation coverage.
+- Converted test automation into Claude skills that run smoke and regression suites and generate reports from a single command, driving 85 to 90%+ automation coverage.
 - Built MCP integrations with Jira, GitLab, Dynatrace, and Figma to standardize QA workflows across teams.
 - Building AgenticQA, an AI-assisted pipeline that takes a Jira or Azure DevOps QA ticket through test generation, execution, and reporting.
 
